@@ -1,0 +1,20 @@
+.soviet {
+    color:orange;
+    font-family:Brush Script MT;
+    text-align:center;
+}
+body {
+    background-color: rgb(156, 50, 205);
+}
+p {
+    font-weight: bold;
+}
+#paragrafi {
+    float: left;
+}
+#immagine {
+    float: right;
+}
+#ol {
+    float: left;
+}
